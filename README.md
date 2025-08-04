@@ -1,2 +1,1 @@
-# PRODIGY_WD_05
-Web programming-Weather app
+This is a simple Weather App built using HTML, CSS, and JavaScript
